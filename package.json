@@ -1,0 +1,17 @@
+{
+  "name": "demo2_mvc",
+  "version": "1.0.0",
+  "description": "CRUD API with Node,express and MUSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
